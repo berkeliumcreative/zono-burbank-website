@@ -152,7 +152,7 @@ export default function Page() {
             <span className="text-xs font-bold tracking-[0.4em] uppercase hidden md:inline" style={{ color: INK }}>From the kitchen</span>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-px" style={{ backgroundColor: INK }}>
-            {GALLERY.slice(0, 12).map((p, i) => (
+            {GALLERY.slice(0, 20).map((p, i) => (
               <div key={i} className="aspect-square bg-cover bg-center grayscale hover:grayscale-0 transition-all duration-700" style={{ backgroundImage: `url("${p}")` }} />
             ))}
           </div>
