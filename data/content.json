@@ -1,47 +1,100 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "ZONO",
+  "tagline": "Modern dining on 1st Street, Burbank.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Eat well in Burbank.",
+    "subheading": "A neighborhood restaurant with a seasonally-driven menu — bold, modern, never fussy.",
+    "ctaText": "Book a Table",
+    "ctaLink": "tel:8185571268",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqi6o6l6C8XOMZnzQIyXnA9G_pMDJ3JIQe3bopMddFyXG8oOtSor91IxSNv2tZtapcSTpNO9_Pniyg-RDGs1ChZ90OxJTi5N47_qd0-d5VnTuzvioJvlGPiVQaVlvdONg0IblI=w1920-h1080-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "A neighborhood restaurant, done right.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "ZONO is what happens when great cooking meets a great room. Honest ingredients, careful technique, and a menu that changes when the season says it should.",
+      "We're on 1st Street in downtown Burbank — close enough to walk to, comfortable enough to stay the night, ambitious enough to surprise you."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Lunch",
+      "description": "Bright, fast lunch plates — fresh salads, wood-fired flatbreads, and sandwiches built for a good break.",
+      "price": "From $14"
+    },
+    {
+      "title": "Dinner",
+      "description": "Seasonally-driven mains with thoughtful sides. The menu rotates as the produce does.",
+      "price": "From $24"
+    },
+    {
+      "title": "Bar Menu",
+      "description": "Craft cocktails, natural wines by the glass, and small plates designed to share.",
+      "price": "From $9"
+    },
+    {
+      "title": "Weekend Brunch",
+      "description": "Saturday and Sunday — house pastries, egg dishes, and bottomless mimosas.",
+      "price": "From $16"
+    },
+    {
+      "title": "Private Dining",
+      "description": "The back room seats 30 — birthdays, anniversaries, team dinners, holiday parties.",
+      "price": "Inquire"
+    },
+    {
+      "title": "Tasting Menu",
+      "description": "Chef's choice five-course experience Friday and Saturday evenings. Book 48 hours ahead.",
+      "price": "$85 / person"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jennifer P.",
+      "text": "Genuinely surprised by Burbank. Beautifully plated, attentive service, and the wine list is sharp. New favorite.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos M.",
+      "text": "Took my parents here for their anniversary. Every course was thoughtful. The pastry chef deserves an award.",
+      "rating": 5
+    },
+    {
+      "name": "Lauren S.",
+      "text": "The kind of place you take someone you want to impress. Modern, warm, and the food backs it up.",
+      "rating": 4
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 557-1268",
+    "email": "hello@zonorestaurant.com",
+    "address": "610 N 1st St, Burbank, CA",
+    "mapEmbedQuery": "ZONO Restaurant, 610 N 1st St, Burbank, CA",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "11 AM – 10 PM",
+      "Tuesday": "11 AM – 10 PM",
+      "Wednesday": "11 AM – 10 PM",
+      "Thursday": "11 AM – 10 PM",
+      "Friday": "11 AM – 11 PM",
+      "Saturday": "10 AM – 11 PM",
+      "Sunday": "10 AM – 9 PM"
+    }
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "ZONO — Modern Restaurant in Downtown Burbank, CA",
+    "description": "Seasonally-driven menu, craft cocktails, weekend brunch, and private dining in downtown Burbank. Reservations: (818) 557-1268.",
+    "keywords": [
+      "zono burbank",
+      "restaurant burbank",
+      "downtown burbank dining",
+      "burbank brunch",
+      "private dining burbank",
+      "tasting menu burbank"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
-  }
+    "primaryColor": "#2D5A3F",
+    "accentColor": "#1A332A",
+    "fontFamily": "fraunces"
+  },
+  "social": {}
 }
